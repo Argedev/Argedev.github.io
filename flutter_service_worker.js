@@ -17,7 +17,7 @@ const RESOURCES = {"assets/AssetManifest.json": "edc48fa1980ee41438cbb477584dcb9
 "assets/assets/images/Buch_Offen.png": "12c7959577785bfaf4b7e855757a0cb2",
 "assets/assets/images/Elena_mit_Tagebuch.jpg": "038fc8eeb5df11bd989311e72c2eff07",
 "assets/assets/images/Elena_ohne_Tagebuch.jpg": "5686740d76cf49fa1413c7bfe6f4ff7a",
-"assets/assets/images/Gipfel.jpg": "cbcc37fba91e3a98102720136cfbb8e9",
+"assets/assets/images/Gipfel.jpg": "1a05b4cd424dc9ee6d7e2dc630f8d5f4",
 "assets/assets/images/Gipfel_2.jpg": "042202bbaed1b8c537a62667c76c42c3",
 "assets/assets/images/Handy_Transparent.png": "4c1d0dcc9f7d3b6fc7a40f556f75bd1b",
 "assets/assets/images/Instagram_Post_Elena.png": "7ecb7825d4f437f03acbec8158237076",
@@ -60,9 +60,9 @@ const RESOURCES = {"assets/AssetManifest.json": "edc48fa1980ee41438cbb477584dcb9
 "icons/Icon-512.png": "f9c40f42fe163e6d7e86a26ea791a2e6",
 "icons/Icon-maskable-192.png": "99729a5e1a34a52a51ef2c6b23298649",
 "icons/Icon-maskable-512.png": "f9c40f42fe163e6d7e86a26ea791a2e6",
-"index.html": "c4012796b082877c3fa6c7be67605cef",
-"/": "c4012796b082877c3fa6c7be67605cef",
-"main.dart.js": "8b84a1aa6bfab4d0b9f7ebd32d8a7fc6",
+"index.html": "bc3d8a3c2928253d064fa2115ff77626",
+"/": "bc3d8a3c2928253d064fa2115ff77626",
+"main.dart.js": "4d2f78227f4cbc14b10fcd21ef7c38e0",
 "manifest.json": "ac2ff8463f13975395ad7e247afdf318",
 "version.json": "c1f4319103b70bb9cb822f2c31a1b6c2"};
 // The application shell files that are downloaded before a service worker can
