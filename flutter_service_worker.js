@@ -37,7 +37,7 @@ const RESOURCES = {"assets/AssetManifest.json": "edc48fa1980ee41438cbb477584dcb9
 "assets/assets/images/Wegweiser.jpg": "36400c941e77ddebb133cda8c1c51bd7",
 "assets/assets/music/Hintergrundmusik.mp3": "e4333a9f441b4dc3dda0d27aac44de3a",
 "assets/FontManifest.json": "3ffb85af99684b5c94f58678a03313ce",
-"assets/fonts/MaterialIcons-Regular.otf": "d246edd76436d3fbe9a5e0b03a370669",
+"assets/fonts/MaterialIcons-Regular.otf": "d41b5026bc38f57a35e156910e41d8f4",
 "assets/NOTICES": "62c49e3d2bc3a3e229f0fb09ec75ea6f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "0db203e8632f03baae0184700f3bda48",
@@ -60,9 +60,9 @@ const RESOURCES = {"assets/AssetManifest.json": "edc48fa1980ee41438cbb477584dcb9
 "icons/Icon-512.png": "f9c40f42fe163e6d7e86a26ea791a2e6",
 "icons/Icon-maskable-192.png": "99729a5e1a34a52a51ef2c6b23298649",
 "icons/Icon-maskable-512.png": "f9c40f42fe163e6d7e86a26ea791a2e6",
-"index.html": "e879f0629704dceda347f5da6514323a",
-"/": "e879f0629704dceda347f5da6514323a",
-"main.dart.js": "593e02eb5561f3253db0528e1ccafb68",
+"index.html": "6e1dca338afeedcc9f46cc83d4025030",
+"/": "6e1dca338afeedcc9f46cc83d4025030",
+"main.dart.js": "11e0976a88b601e0d9936d840b661d76",
 "manifest.json": "ac2ff8463f13975395ad7e247afdf318",
 "version.json": "c1f4319103b70bb9cb822f2c31a1b6c2"};
 // The application shell files that are downloaded before a service worker can
