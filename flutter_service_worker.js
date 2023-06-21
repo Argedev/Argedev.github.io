@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.json": "e9d75b93bc5535256dd5744a879b24a8",
-"assets/AssetManifest.smcbin": "c7d20d95fceaeaafdf58e2402837d396",
+const RESOURCES = {"assets/AssetManifest.json": "edc48fa1980ee41438cbb477584dcb9f",
+"assets/AssetManifest.smcbin": "94c2a082b5d18dfb665d9479a22261e5",
 "assets/assets/fonts/Bilbo-Regular.ttf": "9dc76ce1c97dc6e817bff47de843f572",
 "assets/assets/images/Bank_Blank.jpg": "345319a25665b4b85dad59d32ad2f33b",
 "assets/assets/images/Berge.svg": "652c90bf3022d571db505ef4532b784a",
@@ -15,7 +15,6 @@ const RESOURCES = {"assets/AssetManifest.json": "e9d75b93bc5535256dd5744a879b24a
 "assets/assets/images/Buch_Blank_Blau.png": "576f6b6f1f28896a39daa80262255729",
 "assets/assets/images/Buch_gro%25C3%259F_Blau.png": "a5bb4b1beceada8467baffda8862e82c",
 "assets/assets/images/Buch_Offen.png": "12c7959577785bfaf4b7e855757a0cb2",
-"assets/assets/images/EER%2520-%2520Station%25201%2520&%25202.png": "ba14821f1f3a8ff0e2ac71acadaea191",
 "assets/assets/images/Elena_mit_Tagebuch.jpg": "038fc8eeb5df11bd989311e72c2eff07",
 "assets/assets/images/Elena_ohne_Tagebuch.jpg": "5686740d76cf49fa1413c7bfe6f4ff7a",
 "assets/assets/images/Gipfel.jpg": "1a05b4cd424dc9ee6d7e2dc630f8d5f4",
@@ -35,7 +34,7 @@ const RESOURCES = {"assets/AssetManifest.json": "e9d75b93bc5535256dd5744a879b24a
 "assets/assets/images/Wand.jpg": "24607691e67afcf8652a8bb9137dd92a",
 "assets/assets/images/Wanderweg.jpg": "efefc1f540ffbb1a227ec576ea97dea2",
 "assets/assets/images/Wanderweg_2.png": "71db8391788b2d282ba3417e2e48baff",
-"assets/assets/images/Wegweiser.jpg": "5068ad4b6031fbad28c0f41d7d9ce8d5",
+"assets/assets/images/Wegweiser.jpg": "547a4efbe3c784bbeadf0cacbc015c7f",
 "assets/assets/music/Hintergrundmusik.mp3": "e4333a9f441b4dc3dda0d27aac44de3a",
 "assets/FontManifest.json": "3ffb85af99684b5c94f58678a03313ce",
 "assets/fonts/MaterialIcons-Regular.otf": "d41b5026bc38f57a35e156910e41d8f4",
@@ -61,8 +60,8 @@ const RESOURCES = {"assets/AssetManifest.json": "e9d75b93bc5535256dd5744a879b24a
 "icons/Icon-512.png": "f9c40f42fe163e6d7e86a26ea791a2e6",
 "icons/Icon-maskable-192.png": "99729a5e1a34a52a51ef2c6b23298649",
 "icons/Icon-maskable-512.png": "f9c40f42fe163e6d7e86a26ea791a2e6",
-"index.html": "1ec7f31bc5039a9e43c25d62bb288ad0",
-"/": "1ec7f31bc5039a9e43c25d62bb288ad0",
+"index.html": "270266b263bcd9f0de2e5722fbecb2b2",
+"/": "270266b263bcd9f0de2e5722fbecb2b2",
 "main.dart.js": "4f6b969a9f0bcd3b8b0576b5f69eb10d",
 "manifest.json": "ac2ff8463f13975395ad7e247afdf318",
 "version.json": "c1f4319103b70bb9cb822f2c31a1b6c2"};
